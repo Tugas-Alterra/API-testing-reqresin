@@ -5,11 +5,12 @@ This is a collaboration project of API Testing on Reqres.in API. In this project
 
 ### Members of this project:
 - Ahmad Nabawi
-- Meilisa
-- Luhur
+- Meilisa Putri
+- Yanuar Luhur
 
 
 ### Dependencies used in this API Testing project:
 - Serenity BDD
 - Serenity Cucumber
+- Serenity Rest
 - Rest Assured
