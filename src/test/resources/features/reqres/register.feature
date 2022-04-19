@@ -1,4 +1,4 @@
-@register
+@register @reqresin
 Feature: Register
 
   @positive
