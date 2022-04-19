@@ -3,10 +3,9 @@ package starter.stepdefinitions;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
 import starter.service.Reqres;
 
-import static io.restassured.module.jsv.JsonSchemaValidator.*;
+import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 import static net.serenitybdd.rest.SerenityRest.restAssuredThat;
 
 public class SingleUserStepDefinitions {
